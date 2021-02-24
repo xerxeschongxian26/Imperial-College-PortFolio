@@ -1,6 +1,6 @@
 # Imperial College Portfolio
 * Repository containing all notable project works and other extra-curricular during the 4-year MEng Aeronautical Engineering Course
-* Extra Curriculars include:
+* Roles in extra-curriculars:
   * Imperial College Investment Society
     * Co-Editor    
     * Editor-in-Chief
