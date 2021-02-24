@@ -1,8 +1,14 @@
-# Equity Research Sample
-* Repository containing fundamental analysis and valuation of Singapore-listed company, [Micro-Mechanics (Holdings) Ltd (SGX: 5DD)](https://sg.finance.yahoo.com/quote/5dd.si/)
-* Powerpoint slides contain summary of work and Excel Spreadsheet for number crunching and general plotting of data
-* Screenshots have been attached in this README.md as the powerpoint slides and excel files have to be **downloaded** for proper viewing
-* Screenshot of trading account also included in this README.md
+# Imperial College Portfolio
+* Repository containing all notable project works and other extra-curricular during the 4-year MEng Aeronautical Engineering Course
+* Extra Curriculars include:
+  * Imperial College Investment Society
+    * Role: Co-Editor       Oct 2018 - Jun 2019
+    *       Editor-in-Chief Aug 2019 - Jun 2020 
+  * Imperial College Formula Student - Racing Green 
+    * Role: 3rd Year Group Design Project - Aerodynamics Team       May 2020 - Jun 2020
+    *       Student Aerodynamicist                                  Dec 2020 - Feb 2021
+* Screenshots have been attached in this README.md to provide overview of respository content 
+* For proper viewing please **download** the desired files
 
 # Slides in Micro-Mechanics Analysis_ Xerxes.ppt
 <img src = "Screenshots/Slide1.PNG" width="800">
