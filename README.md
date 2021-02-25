@@ -30,4 +30,11 @@
 
 # Imperial College Formula Student - Racing Green
 * 3rd Group Design Project Report and CFD simulation analysis for Shell-Eco Marathon Vehicle
+  <p float="left">
+      <img src = "Screenshots/IRG_GroupReport_1.PNG" width="300">
+      <img src = "Screenshots/IRG_GroupReport_2.PNG" width="300"> <br>
+      <img src = "Screenshots/IRG_GroupReport_3.PNG" width="300">
+      <img src = "Screenshots/IRG_GroupReport_4.PNG" width="300">
+  </p>
+
   
