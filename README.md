@@ -1,5 +1,5 @@
 # Imperial College Portfolio
-* Repository of notable project works and extra-curriculars undertaken during the MEng Aeronautical Engineering Course
+* Repository of project works, laboratory reports and extra-curriculars from the MEng Aeronautical Engineering Course
 * Roles in extra-curriculars:
   * Imperial College Investment Society
     * Co-Editor    
