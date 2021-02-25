@@ -11,7 +11,28 @@
 * For proper viewing please <ins>**download**</ins> the desired files
 
 # Coursework
-* Laboratory and project work reports
+* Laboratory Reports
+  <p float="left">
+      <img src = "Screenshots/Lab_1.png" width="400">
+      <img src = "Screenshots/Lab_2.png" width="400"> <br>
+      <img src = "Screenshots/Lab_3.png" width="400">
+      <img src = "Screenshots/Lab_4.png" width="400"> <br>
+      <img src = "Screenshots/Lab_5.png" width="400">
+      <img src = "Screenshots/Lab_6.png" width="400"> <br>
+      <img src = "Screenshots/Lab_7.png" width="400">
+      <img src = "Screenshots/Lab_8.png" width="400"> <br>
+      <img src = "Screenshots/Lab_9.png" width="400">
+      <img src = "Screenshots/Lab_10.png" width="400"> <br>
+      <img src = "Screenshots/Lab_11.png" width="400">
+      <img src = "Screenshots/Lab_12.png" width="400"> <br>
+  </p>
+* Applied Computational Aerodynamics Report
+  <p float="left">
+      <img src = "Screenshots/Lab_13.png" width="400">
+      <img src = "Screenshots/Lab_14.png" width="400"> <br>
+      <img src = "Screenshots/Lab_15.png" width="400">
+      <img src = "Screenshots/Lab_16.png" width="400"> <br>
+  </p>
 # Imperial College Investment Society
 * Newspaper articles written for the Imperial College Felix newspaper
   <p float="left">
