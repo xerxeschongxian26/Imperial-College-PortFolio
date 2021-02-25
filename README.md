@@ -13,7 +13,7 @@
 # Coursework
 * Laboratory and project work reports
 # Imperial College Investment Society
-* Student newspaper articles and society magazine
+* Newspaper articles written for the Imperial College Felix newspaper
   <p float="left">
       <img src = "Screenshots/ICIS_Article5.PNG" width="600">
   </p>
@@ -23,18 +23,19 @@
       <img src = "Screenshots/ICIS_Article2.PNG" width="250">
       <img src = "Screenshots/ICIS_Article4.PNG" width="250">
   </p>
+* Summer Magazine 2019
   <p float="left">
       <img src = "Screenshots/ICIS_Magazine1.PNG" width="300">
       <img src = "Screenshots/ICIS_Magazine2.PNG" width="300">
   </p>
 
 # Imperial College Formula Student - Racing Green
-* 3rd Group Design Project Report and CFD simulation analysis for Shell-Eco Marathon Vehicle
+* 3rd Year Group Design Project - Aerodynamics Team
   <p float="left">
-      <img src = "Screenshots/IRG_GroupReport_1.PNG" width="300">
-      <img src = "Screenshots/IRG_GroupReport_2.PNG" width="300"> <br>
-      <img src = "Screenshots/IRG_GroupReport_3.PNG" width="300">
-      <img src = "Screenshots/IRG_GroupReport_4.PNG" width="300">
+      <img src = "Screenshots/IRG_GroupReport_1.png" width="300">
+      <img src = "Screenshots/IRG_GroupReport_2.png" width="300"> <br>
+      <img src = "Screenshots/IRG_GroupReport_3.png" width="300">
+      <img src = "Screenshots/IRG_GroupReport_4.png" width="300">
   </p>
-
+* Student Aerodynamicist  
   
