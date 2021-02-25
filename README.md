@@ -7,8 +7,8 @@
   * Imperial College Formula Student - Racing Green 
     * 3rd Year Group Design Project - Aerodynamics Team      
     * Student Aerodynamicist                                 
-* Screenshots have been attached in this README.md to provide overview of respository content 
-* For proper viewing please **download** the desired files
+* Screenshots have been attached in this README.md to provide an <ins>**overview**</ins> of respository content 
+* For proper viewing please <ins>**download**</ins> the desired files
 
 # Coursework
 * Laboratory and project work reports
